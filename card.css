@@ -1,0 +1,41 @@
+body{
+    background-image: url(mesjid\ background.jfif);
+    margin: 0;
+    font-family: sans-serif;
+}
+.navbar{
+    width : 100vw;
+    background-color: black;
+    
+    
+    padding : 3vh;
+    color: whitesmoke;
+    font-family: cursive;
+}
+.content{
+    width: 49vh;
+    height: 89vh;
+    background: #B993D6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #8CA6DB, #B993D6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #8CA6DB, #B993D6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    margin: auto;
+    margin-top: 20vh;
+    padding: 3vh 3vh;
+}
+.nama{
+    color: rgb(0, 0, 0);
+    font-size: 2vh;
+    margin-top:none;
+    text-align:justify;
+}
+h1{
+    font-size: 2vh;
+    font-family: cursive;
+    text-align: justify;
+}
+button{
+    background: pink;
+    border-radius: 4pt;
+}
